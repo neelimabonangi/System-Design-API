@@ -93,6 +93,7 @@ Example Alert:
 Run with Maven
 
 mvn spring-boot:run
+
 Access the API
 
 POST http://localhost:8080/pickSpot
