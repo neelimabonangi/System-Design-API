@@ -98,14 +98,14 @@ Access the API
 
 POST http://localhost:8080/pickSpot
 
-Monitor
+Monitor:    
+
 Metrics available at /actuator/prometheus for Prometheus scraping.
 
-Future Improvements:   
+Future Improvements:    
+
 Add Redis for distributed caching.
-
 Add Kafka for async retries and audit logging.
-
 Implement rolling updates for smoother deploys.
 
 
